@@ -1,3 +1,4 @@
+
 <!-- GitHub Profile README for Hare Krishana Mishra -->
 
 <h1 align="center">Hi 👋, I'm Hare Krishana Mishra</h1>
@@ -68,17 +69,20 @@
 
 ---
 
-### 🏆 GitHub Skyline (3D Contribution)
+### 🧭 My GitHub Journey
 
-<p align="center">
-  <a href="https://skyline.github.com/HareKrishanaMishra787/2024">
-    <img src="https://github.com/HareKrishanaMishra787.png" width="120" style="border-radius: 50%; margin-bottom: 10px;" />
-    <br />
-    <img src="https://img.shields.io/badge/View%20my%20GitHub%20Skyline-3D%20Graph-blueviolet?style=for-the-badge&logo=github" />
-  </a>
-</p>
+```mermaid
+timeline
+    title Hare Krishana Mishra's GitHub Milestones
 
-
+    2021 : 🌱 Started learning Python & C
+    2022 : 🚀 Built first automation scripts and games in Tkinter
+    2023 : 📊 Completed Data Analytics Internship at SmartBridge (IBM Project)
+    2023 : 🧠 Explored APIs, web scraping, automation tools like Selenium & BeautifulSoup
+    2024 : 🌐 Built RentALL, Weather Bot & Email Automation tools
+    2024 : 🛠️ Gained certifications in Cloud, DevOps, UI/UX, and Python
+    2025 : 🎯 Actively contributing, building clean dashboards and tools
+```
 
 ---
 
