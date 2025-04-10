@@ -17,7 +17,6 @@
 
 ---
 
-
 ## 🚀 Tech Stack
 
 ### 💻 Languages
@@ -59,28 +58,27 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku)
 
-
 ---
 
 ### 🥧 Top Languages by Repo
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22C%2B%2B%22%2C%22C%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B60%2C25%2C15%5D%2C%22backgroundColor%22%3A%5B%22%23FFB347%22%2C%22%2390EE90%22%2C%22%2386CEFA%22%5D%2C%22borderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22%23333333%22%2C%22font%22%3A%7B%22size%22%3A14%2C%22family%22%3A%22Segoe%20UI%22%7D%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Top%20Languages%20by%20Repo%22%2C%22color%22%3A%22%23333333%22%2C%22font%22%3A%7B%22size%22%3A20%2C%22family%22%3A%22Segoe%20UI%22%7D%7D%7D%2C%22cutout%22%3A%2245%25%22%2C%22backgroundColor%22%3A%22%23fefefe%22%7D%7D" alt="Balanced Color Language Pie Chart" width="420" />
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22C%2B%2B%22%2C%22C%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B60%2C25%2C15%5D%2C%22backgroundColor%22%3A%5B%22%23FFB347%22%2C%22%2390EE90%22%2C%22%2386CEFA%22%5D%2C%22borderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22%23333333%22%2C%22font%22%3A%7B%22size%22%3A14%2C%22family%22%3A%22Segoe%20UI%22%7D%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Top%20Languages%20by%20Repo%22%2C%22color%22%3A%22%23333333%22%2C%22font%22%3A%7B%22size%22%3A20%2C%22family%22%3A%22Segoe%20UI%22%7D%7D%7D%2C%22cutout%22%3A%2245%25%22%2C%22backgroundColor%22%3A%22%23fefefe%22%7D%7D" alt="Language Pie Chart" width="420" />
 </p>
-
-
-
-
-
-
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
+### 🏆 GitHub Skyline (3D Contribution)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HareKrishanaMishra787&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" />
+  <a href="https://skyline.github.com/HareKrishanaMishra787/2024">
+    <img src="https://github.com/HareKrishanaMishra787.png" width="120" style="border-radius: 50%; margin-bottom: 10px;" />
+    <br />
+    <img src="https://img.shields.io/badge/View%20my%20GitHub%20Skyline-3D%20Graph-blueviolet?style=for-the-badge&logo=github" />
+  </a>
 </p>
+
+
 
 ---
 
