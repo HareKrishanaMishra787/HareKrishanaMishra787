@@ -61,7 +61,7 @@
 
 ---
 
-### 🥧 Top Languages by Repo
+### 🥧 Primary Languages Used
 
 <p align="center">
   <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22C%2B%2B%22%2C%22C%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B60%2C25%2C15%5D%2C%22backgroundColor%22%3A%5B%22%234C8EDA%22%2C%22%2320C997%22%2C%22%23DEE2E6%22%5D%2C%22borderColor%22%3A%22%231E1E1E%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22cutout%22%3A%2245%25%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22color%22%3A%22%23CCCCCC%22%2C%22font%22%3A%7B%22size%22%3A14%2C%22family%22%3A%22Segoe%20UI%22%7D%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Top%20Languages%20by%20Repo%22%2C%22color%22%3A%22%23CCCCCC%22%2C%22font%22%3A%7B%22size%22%3A20%2C%22family%22%3A%22Segoe%20UI%22%7D%7D%7D%7D%7D" alt="Top Languages by Repo" width="420" />
