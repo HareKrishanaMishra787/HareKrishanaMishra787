@@ -106,17 +106,23 @@ timeline
 
 ---
 
-## 📜 Certifications
+<details>
+  <summary><h2 style="display: inline-block;">📜 <span style="color:#36BCF7;">Certifications</span> <span style="font-size:14px;">(🔽 Click here to expand)</span></h2></summary>
 
-- 🎖️ IBM Data Analytics (2023)
-- 🧠 Google Cloud Fundamentals (2023)
-- ☁️ AWS Cloud Practitioner (2023)
-- 📈 Tableau & Data Visualization – SmartBridge (2023)
-- 🧰 DevOps Fundamentals (2023)
-- 🌀 Agile Training (2023)
-- 💡 Bits and Bytes – Google (2024)
-- 👨‍💻 UX/UI Design (2024)
-- 🐍 Professional Python Developer (2025)
+  <ul>
+    <li>🎖️ IBM Data Analytics (2023)</li>
+    <li>🧠 Google Cloud Fundamentals (2023)</li>
+    <li>☁️ AWS Cloud Practitioner (2023)</li>
+    <li>📈 Tableau & Data Visualization – SmartBridge (2023)</li>
+    <li>🧰 DevOps Fundamentals (2023)</li>
+    <li>🌀 Agile Training (2023)</li>
+    <li>💡 Bits and Bytes – Google (2024)</li>
+    <li>👨‍💻 UX/UI Design (2024)</li>
+    <li>🐍 Professional Python Developer (2025)</li>
+  </ul>
+
+</details>
+
 
 ---
 
