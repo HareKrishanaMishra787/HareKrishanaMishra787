@@ -2,7 +2,7 @@
 <!-- GitHub Profile README for Hare Krishana Mishra -->
 
 <h1 align="center">Hi 👋, I'm Hare Krishana Mishra</h1>
-<h3 align="center">Aspiring Data Analyst | Web Developer | Automation Enthusiast</h3>
+<h3 align="center">Aspiring Data Analyst | Python Developer | Automation Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Developer;Web+Developer;Data+Analyst;Automation+Expert;Lifelong+Learner" />
