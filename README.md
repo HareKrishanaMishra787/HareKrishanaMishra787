@@ -81,7 +81,9 @@
 
 ---
 
-### 🧭 My GitHub Journey
+<details>
+  <summary><h2>🧭 GitHub Milestones  <span style="color:#36BCF7;"></span> <span style="font-size:14px;">(🔽 Click here to expand)</span></h2></summary>
+
 
 ```mermaid
 timeline
@@ -96,7 +98,7 @@ timeline
     2025 : 🎯 Actively contributing, building clean dashboards and tools
 ```
 
----
+</details>
 
 ### 🔥 Contribution Graph
 
